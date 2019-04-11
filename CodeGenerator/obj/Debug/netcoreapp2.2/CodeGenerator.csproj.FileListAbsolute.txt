@@ -28,3 +28,4 @@ C:\Users\Mateusz Adamowicz\source\repos\CodeGenerator\CodeGenerator\obj\Debug\ne
 C:\Users\Mateusz Adamowicz\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp2.2\CodeGenerator.dll
 C:\Users\Mateusz Adamowicz\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp2.2\CodeGenerator.pdb
 C:\Users\Mateusz Adamowicz\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp2.2\CodeGenerator.csproj.CopyComplete
+C:\Users\Mateusz Adamowicz\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Build\Index.g.cshtml.cs
